@@ -8,13 +8,16 @@ The school board has recently notified Maria and her supervisor of appearances o
 
 ""Results**
 
-How is district summay affected?
-How is school summary affected?
-Effect of replacingg ninth gradersscores on Thomas high school performance relative to other schools:
+How is district summay affected? The district summary numbers remained same. The average reading and math scores, percentage of passing scores were unchanges.
+How is school summary affected? The school summary was not affected.
+Effect of replacingg ninth gradersscores on Thomas high school performance relative to other schools: Thomas high school regsitered NAN as the score for reading and Math.
 Effect of the replacement on
-  other grades
-  scores by school spending
-  scores by school size
-  scores by school type
+  other grades: Other grades were not impacted
+  scores by school spending; No visible difference
+  scores by school size: school size was not impacted by a change in scores of ninth graders.
+  scores by school type: Charter schools remained better performers than District type schools.
   
   4 changes in updated school district analysis after replacement
+  
+      The Average maths and reading scores changed for Thomas high school and impacted the percentage passing.
+      
